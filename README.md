@@ -1,5 +1,5 @@
-# statamic-field-last-modified
-A simple statamic field to display last modified date.
+# A readonly fieldtype to show last modified for statamic
+A simple statamic fieldtype to display readonly last modified date.
 
 ## Installation
 

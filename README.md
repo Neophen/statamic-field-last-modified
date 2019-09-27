@@ -20,7 +20,7 @@ For full reference of the supported format character and results, see the docume
 
 ## Examples
 
-in your fieldtype, it has to be a top level field, otherwise it will not work!
+In your fieldtype, it has to be a top level field, otherwise it will not work!
 ```
 sections:
   main:
@@ -30,6 +30,11 @@ sections:
         type: last_modified
         display: Last modified
 ```
+
+this will result in something like:
+![show last modified](https://github.com/neophen/statamic-field-last-modified/raw/master/docs/img/figure-1.png "show last modified")
+
+
 
 ## License
 

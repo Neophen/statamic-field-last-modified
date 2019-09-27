@@ -1,0 +1,4 @@
+fields:
+  format:
+    type: text
+    validate: "required"

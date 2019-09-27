@@ -1,0 +1,6 @@
+name: 'Show last modified'
+version: '1.0'
+description: 'Show last modified in your entries'
+developer: 'Mykolas Mankevicius'
+developer_url: 'https://www.co-openhagen.com/'
+commercial: false

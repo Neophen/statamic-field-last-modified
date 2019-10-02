@@ -12,7 +12,7 @@ You can configure the addon by visiting CP > Addons > Show last modified:
 
   * **Date format** - the date format you want the last modified to be represented in.
 
-For full reference of the supported format character and results, see the documentation of date(): http://www.php.net/manual/en/function.date.php
+For full reference of the supported format character and results, see the documentation of date(): [php_date](http://www.php.net/manual/en/function.date.php)
 
 ## Usage
 
@@ -37,5 +37,7 @@ this will result in something like:
 
 
 ## License
+
+Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 
 [MIT License](http://emd.mit-license.org)

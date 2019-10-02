@@ -1,1 +1,2 @@
 format: 'D M d Y H:i:s'
+format_front_end: '%d %B %G'

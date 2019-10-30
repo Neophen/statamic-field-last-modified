@@ -4,7 +4,7 @@ A simple statamic fieldtype to display readonly last modified date.
 ## Installation
 
 1. Copy the "LastModified" folder to your Statamic `site/addons` directory
-2. Run `php please update:addons` to load the addon's dependencies.
+2. Run `php please update:addons` to load the addons dependencies.
 
 ## Configuration
 
